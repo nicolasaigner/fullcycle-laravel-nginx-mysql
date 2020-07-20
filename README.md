@@ -4,4 +4,4 @@
 
 Projeto do curso **Full Cycle Development** em docker-compose 
 
-Link para o Docker Hub: https://hub.docker.com/nicolasaigner/fullcycle-laravel-nginx-mysql
+Link para o Docker Hub: https://hub.docker.com/r/nicolasaigner/fullcycle-laravel-nginx-mysql
